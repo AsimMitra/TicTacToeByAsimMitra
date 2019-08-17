@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Asim Mitra\'sTicTacToe</string>
+    <string name="player_1_0">Player 1 : 0</string>
+    <string name="player_2_0">Player 2 : 0</string>
+    <string name="reset">reset</string>
+    <string name="todo">TODO</string>
+</resources>
